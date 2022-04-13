@@ -7,3 +7,4 @@ created a new repository named hello_world
 created learn and added the process
 added for next branch
 same
+THIRD PULL CONFLICT WITH SECOND
