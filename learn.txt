@@ -3,8 +3,7 @@ welcome to Github
 .
 Lets start learning Git
 created a new repository named hello_world
-
+conflict
 created learn and added the process
 added for next branch
-same
-THis is my second PR approve it
+
