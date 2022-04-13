@@ -3,4 +3,6 @@ welcome to Github
 .
 Lets start learning Git
 created a new repository named hello_world
-done
+
+created learn and added the process
+
